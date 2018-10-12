@@ -52,3 +52,11 @@ Soure your changes or restart the terminal:
 
 Now, you can run the `python selective_streams.py` demo, located in the `examples` folder.
 
+## Muse Setups
+
+Download the tools here: https://storage.googleapis.com/ix_downloads/tools-3.4.2/museresearchtools-3.4.2-linux-installer.run
+
+Install to your `$HOME` directory.
+
+
+
